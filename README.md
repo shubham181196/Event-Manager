@@ -77,21 +77,8 @@ helps to register an users for on events conducted in college fests with simple 
 
 13. admin login details  Email=admin@gmail.com and Password=123456789.
 
-## If you like my project 
-Bye me Cup of coffee
 
-### Google pay or phonepay number 9535688928
 
-## visit my other repository with different admin pages with below link
-https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page
 
-https://github.com/PuneethReddyHC/online-shopping-system-advanced
 
-## Screenshots
-![Image of adduser](https://github.com/PuneethReddyHC/event-management/blob/master/screenshots/home.png)
-![Image of adduser](https://github.com/PuneethReddyHC/event-management/blob/master/screenshots/events.png)
-![Image of adduser](https://github.com/PuneethReddyHC/event-management/blob/master/screenshots/about.png)
-![Image of adduser](https://github.com/PuneethReddyHC/event-management/blob/master/screenshots/events1.png)
-![Image of adduser](https://github.com/PuneethReddyHC/event-management/blob/master/screenshots/login.png)
 
-##  If you like my project hit a star button
