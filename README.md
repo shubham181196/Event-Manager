@@ -1,7 +1,3 @@
-![GitHub](https://img.shields.io/github/license/PuneethReddyHC/online-shopping-system-advanced)
-![](https://visitor-badge.glitch.me/badge?page_id=puneethreddyhc.event)
-
-<a href="https://www.buymeacoffee.com/PuneethReddyHC" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="195" height="55"></a>
 
 <h3>Things I code with</h3>
 <p>
